@@ -4,7 +4,7 @@ const initialState = {
     carModels : ["Model 3", "Model S", "Model X", "Model Y", "Solar Roof", "Solar Panels"],
     sideMenuItems: ["Model 3", "Model S", "Model X", "Model Y", "Existing Inventory", "Used Inventory", "Trade-In", "Test Drive", 
                     "Cybertruck", "Roadster", "Semi", "Charging", "Powerwall", "Commercial Energy",
-                     "Find Us", "Support", "Investor Relations", "United States"
+                     "Find Us", "Support", "Investor Relations"
                     ]
 }
 
